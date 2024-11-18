@@ -1,5 +1,7 @@
 # credit-risk-classification
 
+My final version of code is located in the Credit_Risk folder called credit_risk_classification.ipynb
+
 ## Overview of the Analysis
 
 The purpose of this analysis was to evaluate a machine learning model's ability to predict loan statuses based on financial data. Specifically, the goal was to classify loans as either 0 (healthy loans) or 1 (high-risk loans).
